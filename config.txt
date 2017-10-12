@@ -1,0 +1,12 @@
+row pins = 2,3,4
+col pins = 17,27,22
+1 = 00,blue
+2 = 01,blue
+3 = 02,blue
+4 = 10,blue
+5 = 11,blue
+6 = 12,blue
+7 = 20,blue
+8 = 21,blue
+9 = 22,blue
+		
